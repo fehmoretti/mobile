@@ -1,6 +1,6 @@
 # 📱 MOBILE
 
-Este repositório contém o projeto mobile **[NOME DO APLICATIVO]**, desenvolvido com o objetivo de [breve descrição do propósito ou funcionalidade principal do app].
+Este repositório contém o projeto mobile **Mind Safe**, desenvolvido com o objetivo de [breve descrição do propósito ou funcionalidade principal do app].
 
 > ⚠️ O projeto ainda está em desenvolvimento e sujeito a mudanças.
 
